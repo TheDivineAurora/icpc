@@ -7,6 +7,7 @@ using namespace std;
 #include "debug.h"
 #endif
 
+#define int long long
 #define f first
 #define s second
 #define pb push_back
